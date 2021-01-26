@@ -3,7 +3,8 @@
 This is for the issue that `TP-LINK`'s wireless network adapter `AC600` is not automatically set up in Ubuntu 18.
 
 ![tp-link-ac600](ac600_img.jpg)
-Image from Amazon.co.uk
+
+(Image from Amazon.co.uk)
 
 **Issue:** 
 Even though plugged, AC600 is not automatically detected at all on Ubuntu 18. A proper driver is required.
