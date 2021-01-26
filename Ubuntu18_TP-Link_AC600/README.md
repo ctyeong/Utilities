@@ -10,7 +10,7 @@ This is for the issue that `TP-LINK`'s wireless network adapter `AC600` is not a
 Even though plugged, AC600 is not automatically detected at all on Ubuntu 18. A proper driver is required.
 
 **Remedy:**
-1. Go to https://github.com/aircrack-ng/rtl8812au and download the files by [Code]-[Download ZIP]
+1. Go to https://github.com/aircrack-ng/rtl8812au and download the files by [Code]-[Download ZIP] (or a snapshot v5.6.4.2 of it provided here)
 2. Extract the zip file to a directory.
 3. As instructed in the repository, run `$ sudo make dkms_install` in the root directory. (`dkms` package is required to perform this)
 4. Plug (re-plug) the usb dongle to the computer, and then you should be able to see it working to list available wifi networks around. 
