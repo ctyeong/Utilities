@@ -10,4 +10,4 @@ This is for an issue that I have faced with a computer in which Ubuntu 18 was ne
 3. Find proper drivers from online in `B` and install them on `A` to be able to eventually connect to the internet.
 
 **What's happening:**
-- Following the instruction [here](https://ivanitlearning.wordpress.com/2019/04/21/installing-ubuntu-packages-and-git-repos-offline/), those `.deb`'s have been downloaded in the pure Ubuntu machine with internet connection. 
+- Following the instruction [here](https://ivanitlearning.wordpress.com/2019/04/21/installing-ubuntu-packages-and-git-repos-offline/), those `.deb`'s have been downloaded in a pure Ubuntu machine with internet connection. 
